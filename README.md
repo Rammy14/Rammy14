@@ -2,9 +2,9 @@ import requests
 import random
 import time
 
-API_URL = "https://api.deriv.com"
-API_KEY = "your_api_key_here"
-ACCOUNT_ID = "your_account_id"
+API_URL = "https://killerammy.com"
+API_KEY = "1234567890"
+ACCOUNT_ID = "Killer Rammy"
 
 # Step 1: Authenticate and get account details
 def authenticate():
